@@ -1,6 +1,6 @@
-# NewsD — WordPress Theme Portal Berita
+# Warta Nusa— WordPress Theme Portal Berita
 
-**NewsD** adalah tema WordPress bergaya editorial/majalah untuk portal berita. Tema dibuat dari nol (tanpa menyalin tema lain) sebagai tugas pengembangan tema pada matakuliah CMS. 
+**Warta Nusa** adalah tema WordPress bergaya editorial/majalah untuk portal berita. Tema dibuat dari nol (tanpa menyalin tema lain) sebagai tugas pengembangan tema pada matakuliah CMS. 
 
 ![Screenshot](screenshot.png)
 
